@@ -1,0 +1,64 @@
+ body {
+            font-family: "Segoe UI", Arial, sans-serif;
+            background-color: #aec5e8;
+        }
+
+       
+        header {
+            background-color: #5f92de;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+     
+        section {
+            border-width: 3px;
+            border-style: none;
+            border-color: black;
+            margin: 20px;
+            padding: 15px;
+            background-color: white;
+         
+        }
+       
+        .caja_destacada {
+            border: 3px solid #4a74c9;
+            background-color: #e5edfb;
+            padding: 15px;
+           
+        }
+
+     
+       
+      table {
+		  
+            margin: 15px auto;
+            border-collapse: collapse;
+        }
+
+        th, td {
+            border: 1px solid #888;
+            padding: 8px;
+            text-align: left;
+        }
+
+   
+     
+      #titulo_tabla {
+        text-align: center;
+        }
+
+        h1 {
+            text-align: center;
+            color: #044fbf;
+            font-family: Serif;
+            letter-spacing: 1px;
+            text-decoration: underline
+        }  
+     
+        h2 {
+            color: black;
+            font-family: Monospace;
+            letter-spacing: 1px
+         
+        }
